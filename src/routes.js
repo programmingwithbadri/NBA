@@ -1,7 +1,7 @@
 import React, { Component } from 'react'
 import { Switch, Route } from 'react-router-dom';
 
-import Home from './components/Home/home';
+import Home from './components/home/home';
 import Layout from './hoc/Layout/layout';
 
 export default class Routes extends Component {
